@@ -57,4 +57,4 @@ Experienced Linux System Administrator with 6+ years of experience in managing e
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket12283&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
