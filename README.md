@@ -50,8 +50,9 @@ Experienced Linux System Administrator with 6+ years of experience in managing e
 
 ## 📫 Contact
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: www.linkedin.com/in/sanketpawar12283
+- CloudHire: https://jobs.cloudhire.ai/user/df2961e8-103b-4f83-a1d7-c248e0157369
+- Email: sanket12283@gmail.com
 
 ---
 
