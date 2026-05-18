@@ -129,8 +129,7 @@ Infrastructure & Utility Operations Support
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket12283&show_icons=true&theme=default)
+https://github-readme-stats.vercel.app/api?username=Sanket12283&show_icons=true&theme=default
 
 ---
 
