@@ -28,7 +28,7 @@ Senior Linux Administrator and Sr Executive with **6+ years of expertise** speci
   * Ensuring high availability, strict security compliance, and robust operational stability across complex Linux and Windows production environments.
   * Performing advanced OS-level troubleshooting, kernel patching, and comprehensive system hardening to eliminate vulnerabilities and minimize downtime.
 
-* **Sr Executive / System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2022 – Jan 2025)*
+* **Executive** @ *Siemens Ltd (Navi Mumbai, India | Jan 2022 – Jan 2025)*
   * Administered and maintained large-scale Red Hat Enterprise Linux (RHEL) and Windows Server environments, ensuring stable 24/7 operations.
   * Executed installation, configuration, patch management, and advanced security hardening for enterprise Linux servers.
   * Implemented robust firewall policies, VPN configurations, and access controls, successfully improving the overall security posture by **~30%**.
