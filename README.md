@@ -1,58 +1,60 @@
 # Hi, I'm Sanket Pawar 👋
 
-### **Senior System Engineer @ Siemens Ltd** 
+### **Sr Executive @ Siemens Ltd | Senior Linux Administrator** 
 📍 Thane, Maharashtra, India | ✉️ sanket12283@gmail.com | 📞 +91 8149633505
 
 ---
 
 ### 🚀 Professional Summary
-Senior Linux System Administrator with **6+ years of expertise** managing, securing, and scaling mission-critical enterprise infrastructure across Linux and Windows environments. Currently driving high availability, security compliance, and robust operational stability for large-scale **SCADA/EMS** utility and energy management systems at Siemens. Proven ability in OS-level troubleshooting, system hardening, LVM/RAID configuration, automated scripting, and rigorous Factory/Site Acceptance Testing (FAT/SAT).
+Senior Linux Administrator and Sr Executive with **6+ years of expertise** specializing in enterprise-grade Linux server administration, infrastructure hardening, and high-availability management. Proven track record of architecting, securing, and maintaining mission-critical Linux environments (RHEL, Ubuntu, CentOS) alongside Windows Server for large-scale **SCADA/EMS** utility and energy management systems at Siemens. Expert in OS-level troubleshooting, LVM and file system management, Bash scripting automation, disaster recovery, and rigorous Factory/Site Acceptance Testing (FAT/SAT).
 
 ---
 
 ### 🛠️ Technical Stack & Core Competencies
 
-* **Operating Systems:** Red Hat Enterprise Linux (RHEL), Ubuntu, CentOS, Windows Server
-* **Virtualization & Storage:** KVM, File System & LVM Management, RAID Configuration
-* **System Administration:** Active Directory (User & Group Management), Patch Management, Firmware Upgrades, Log Analysis
-* **Security & Networking:** System Hardening, Firewall Policies, VPNs, Access Control Management
-* **Automation & Tools:** Bash Scripting, Git, Backup & Restore Operations (Disaster Recovery)
-* **Testing & Methodologies:** Factory Acceptance Testing (FAT), Site Acceptance Testing (SAT), ITIL Processes, SLA Management
+* **Linux Administration:** Red Hat Enterprise Linux (RHEL), Ubuntu, CentOS, Server Installation, Configuration & Tuning
+* **Storage & Virtualization:** KVM, Hyper-V, File System & LVM Management, RAID Configuration & Storage Maintenance
+* **System Operations & Maintenance:** Kernel Patch Management, Firmware Upgrades, Log Analysis, User & Group Access Management, Active Directory Integration
+* **Security & Networking:** OS Hardening (CIS standards), Firewall Management, VPNs, Access Control Policies
+* **Automation & Tools:** Advanced Bash Scripting, Git, Backup & Restore Operations, Disaster Recovery Planning
+* **Methodologies & Quality:** Factory Acceptance Testing (FAT), Site Acceptance Testing (SAT), ITIL-aligned Operations, 99.9% Uptime SLA Management
 
 ---
 
 ### 🏢 Professional Experience
 
-* **Senior System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2025 – Present)*
-  * Owning administration and operational support of Linux and Windows server infrastructure for enterprise production systems.
-  * Ensuring 100% high availability, rigorous security compliance, and operational stability of critical infrastructure.
-  * Performing deep OS-level troubleshooting, patching, and comprehensive system hardening to minimize downtime and security risks.
+* **Sr Executive** @ *Siemens Ltd (Navi Mumbai, India | Jan 2025 – Present)*
+  * Spearheading administration, management, and operational support of enterprise Linux server infrastructure supporting critical production systems.
+  * Ensuring high availability, strict security compliance, and robust operational stability across complex Linux and Windows production environments.
+  * Performing advanced OS-level troubleshooting, kernel patching, and comprehensive system hardening to eliminate vulnerabilities and minimize downtime.
 
-* **System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2022 – Jan 2025)*
-  * Administered and maintained large-scale RHEL and Windows Server environments, ensuring stable day-to-day operations.
-  * Implemented strict firewall policies, VPNs, and access controls, boosting overall security posture by **~30%**.
-  * Developed and deployed Bash automation scripts for routine operational tasks, increasing administrative efficiency by **~20%**.
-  * Executed end-to-end disaster recovery planning, backup/restore workflows, and coordinated FAT/SAT deployments.
+* **Sr Executive / System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2022 – Jan 2025)*
+  * Administered and maintained large-scale Red Hat Enterprise Linux (RHEL) and Windows Server environments, ensuring stable 24/7 operations.
+  * Executed installation, configuration, patch management, and advanced security hardening for enterprise Linux servers.
+  * Implemented robust firewall policies, VPN configurations, and access controls, successfully improving the overall security posture by **~30%**.
+  * Developed and deployed custom Bash automation scripts for routine administrative and backup tasks, increasing efficiency by **~20%**.
+  * Managed comprehensive disaster recovery planning, backup/restoration workflows, and coordinated FAT/SAT deployments.
 
 * **System Engineer** @ *TeamLease Services Limited (Mar 2021 – Dec 2021)*
-  * Managed Linux/Windows server environments meeting strict **99.9% uptime SLAs**.
-  * Deployed and supported network switches, routers, and firewalls while handling system health checks and basic database troubleshooting.
+  * Managed enterprise Linux and Windows server environments, ensuring consistent **99.9% uptime SLAs**.
+  * Configured and supported network switches, routers, and firewall rules while performing regular system health checks and troubleshooting.
 
 * **System Engineer** @ *Technitab Solutions Pvt Ltd (Sep 2019 – Jun 2020)*
-  * Configured Red Hat Linux and Windows Servers for production, managed regular patch updates, firmware upgrades, and server hardening.
+  * Deployed and configured Red Hat Linux production servers, performing continuous patch management, firmware updates, and system hardening.
 
 * **Linux Support Engineer** @ *OFFICEBING (May 2018 – Sep 2019)*
-  * Provided core Linux support for Ubuntu servers and workstations, configured Vicidial servers, and optimized system performance.
+  * Provided dedicated Linux system support for Ubuntu-based servers and workstations, optimizing overall system performance.
+  * Configured Vicidial servers to meet custom client requirements and handled priority help-desk incident resolution.
 
 ---
 
-### ⚡ Key Enterprise SCADA / EMS Projects
+### ⚡ Key Enterprise SCADA / EMS Linux Projects
 
-* **National Energy Control Center (NECC):** SCADA/EMS infrastructure support, network/firewall configuration, system hardening, backup/restore management, and FAT/SAT coordination.
-* **Maharashtra Transmission Asset Management Center (MTAMC):** Linux server & utility infrastructure management, security hardening, monitoring, and client communication.
-* **Office National de l'Électricité et de l'Eau Potable (ONEE):** SCADA/EMS operational support, server configuration, and disaster recovery execution.
-* **Dhaka Electric Supply Company Limited (DESCO):** Linux administration, firewall management, troubleshooting, and FAT/SAT support for critical power grids.
-* **Uttar Gujarat Vij Company Limited (UGVCL):** Utility infrastructure operations, security hardening, and system monitoring.
+* **National Energy Control Center (NECC):** Linux system administration, SCADA/EMS infrastructure support, network configuration, security hardening, and backup/restore management.
+* **Maharashtra Transmission Asset Management Center (MTAMC):** Management of enterprise Linux servers and utility infrastructure, system monitoring, security hardening, and FAT/SAT support.
+* **Office National de l'Électricité et de l'Eau Potable (ONEE):** Operational Linux administration, server configuration, firewall management, and disaster recovery execution for critical energy grids.
+* **Dhaka Electric Supply Company Limited (DESCO):** End-to-end Linux server administration, firewall/network configuration, troubleshooting, and FAT/SAT coordination for SCADA systems.
+* **Uttar Gujarat Vij Company Limited (UGVCL):** Utility infrastructure operations, Linux security hardening, system monitoring, and backup/restore execution.
 
 ---
 
