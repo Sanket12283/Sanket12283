@@ -1,152 +1,63 @@
-```markdown
-# Hi 👋, I'm Sanket Pawar
+# Hi, I'm Sanket Pawar 👋
 
-## Senior System Engineer | Linux Administrator | Infrastructure & Security Engineer
-
-Experienced Linux System Administrator and Senior System Engineer with 6+ years of expertise in enterprise infrastructure, Linux server administration, virtualization, networking, cybersecurity, automation, backup & recovery, and SCADA/EMS infrastructure support.
-
-Currently working at Siemens Ltd, supporting critical production infrastructure environments with focus on reliability, security, and operational excellence.
+### **Senior System Engineer @ Siemens Ltd** 
+📍 Thane, Maharashtra, India | ✉️ sanket12283@gmail.com | 📞 +91 8149633505
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Working on Linux Infrastructure & SCADA/EMS Systems
-- 🌱 Learning Cloud, Automation & DevOps Technologies
-- 💻 Passionate about Linux, Security, Networking & System Automation
-- 🛠 Experienced in Enterprise Infrastructure Support
-- 📍 Mumbai, Maharashtra, India
+### 🚀 Professional Summary
+Senior Linux System Administrator with **6+ years of expertise** managing, securing, and scaling mission-critical enterprise infrastructure across Linux and Windows environments. Currently driving high availability, security compliance, and robust operational stability for large-scale **SCADA/EMS** utility and energy management systems at Siemens. Proven ability in OS-level troubleshooting, system hardening, LVM/RAID configuration, automated scripting, and rigorous Factory/Site Acceptance Testing (FAT/SAT).
 
 ---
 
-## 🧰 Technical Skills
+### 🛠️ Technical Stack & Core Competencies
 
-### Linux & System Administration
-- Red Hat Enterprise Linux (RHEL)
-- Ubuntu & CentOS
-- User & Group Management
-- File System & LVM Management
-- RAID Configuration
-- Patch Management
-- System Hardening
-- Performance Tuning
-- Backup & Restore Operations
-
-### Virtualization & Cloud
-- KVM Virtualization
-- VMware
-- AWS Fundamentals
-
-### Networking & Security
-- Cisco Switch & Router Configuration
-- Fortinet Firewall Configuration
-- VPN & Access Control
-- Network Troubleshooting
-- Firewall Policy Management
-
-### Automation & Monitoring
-- Bash Shell Scripting
-- Log Analysis
-- System Monitoring
-- Infrastructure Automation
-
-### Enterprise Operations
-- Disaster Recovery
-- FAT/SAT Activities
-- Infrastructure Deployment
-- Customer Coordination
-- Incident Management
+* **Operating Systems:** Red Hat Enterprise Linux (RHEL), Ubuntu, CentOS, Windows Server
+* **Virtualization & Storage:** KVM, File System & LVM Management, RAID Configuration
+* **System Administration:** Active Directory (User & Group Management), Patch Management, Firmware Upgrades, Log Analysis
+* **Security & Networking:** System Hardening, Firewall Policies, VPNs, Access Control Management
+* **Automation & Tools:** Bash Scripting, Git, Backup & Restore Operations (Disaster Recovery)
+* **Testing & Methodologies:** Factory Acceptance Testing (FAT), Site Acceptance Testing (SAT), ITIL Processes, SLA Management
 
 ---
 
-## 🏢 Professional Experience
+### 🏢 Professional Experience
 
-### Senior System Engineer | Siemens Ltd
-📍 Navi Mumbai, India | Jan 2025 – Present
+* **Senior System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2025 – Present)*
+  * Owning administration and operational support of Linux and Windows server infrastructure for enterprise production systems.
+  * Ensuring 100% high availability, rigorous security compliance, and operational stability of critical infrastructure.
+  * Performing deep OS-level troubleshooting, patching, and comprehensive system hardening to minimize downtime and security risks.
 
-- Managing enterprise Linux & Windows server infrastructure
-- Performing security hardening and troubleshooting
-- Supporting high availability production systems
-- Infrastructure operations and change management
+* **System Engineer** @ *Siemens Ltd (Navi Mumbai, India | Jan 2022 – Jan 2025)*
+  * Administered and maintained large-scale RHEL and Windows Server environments, ensuring stable day-to-day operations.
+  * Implemented strict firewall policies, VPNs, and access controls, boosting overall security posture by **~30%**.
+  * Developed and deployed Bash automation scripts for routine operational tasks, increasing administrative efficiency by **~20%**.
+  * Executed end-to-end disaster recovery planning, backup/restore workflows, and coordinated FAT/SAT deployments.
 
-### System Engineer | Siemens Ltd
-📍 Navi Mumbai, India | Jan 2022 – Jan 2025
+* **System Engineer** @ *TeamLease Services Limited (Mar 2021 – Dec 2021)*
+  * Managed Linux/Windows server environments meeting strict **99.9% uptime SLAs**.
+  * Deployed and supported network switches, routers, and firewalls while handling system health checks and basic database troubleshooting.
 
-- Administered RHEL and Windows environments
-- Implemented firewall and security configurations
-- Automated tasks using Bash scripting
-- Supported backup, recovery, FAT & SAT activities
+* **System Engineer** @ *Technitab Solutions Pvt Ltd (Sep 2019 – Jun 2020)*
+  * Configured Red Hat Linux and Windows Servers for production, managed regular patch updates, firmware upgrades, and server hardening.
 
----
-
-## 📌 Major Projects
-
-### ⚡ National Energy Control Center (NECC) – Egypt
-SCADA/EMS Infrastructure Administration
-
-- Linux Administration
-- Firewall & Network Configuration
-- Backup & Restore
-- System Hardening
-- FAT/SAT Support
-- Customer Coordination
-
-### ⚡ Maharashtra Transmission Asset Management Center (MTAMC)
-Infrastructure & Utility Operations Support
-
-### ⚡ ONEE Morocco – SCADA/EMS Support
-
-### ⚡ DESCO Bangladesh – Utility Infrastructure Support
-
-### ⚡ UGVCL – Linux & Network Infrastructure Support
+* **Linux Support Engineer** @ *OFFICEBING (May 2018 – Sep 2019)*
+  * Provided core Linux support for Ubuntu servers and workstations, configured Vicidial servers, and optimized system performance.
 
 ---
 
-## 🛠 Tools & Technologies
+### ⚡ Key Enterprise SCADA / EMS Projects
 
-`Linux` `RHEL` `Ubuntu` `VMware` `KVM` `Cisco` `Fortinet`
-`Bash Scripting` `Git` `GitHub` `AWS`
-`Backup & Recovery` `SCADA/EMS` `Cybersecurity`
-
----
-
-## 📜 Certifications
-
-- AWS Cloud Technical Essentials
-- Migrating to the AWS Cloud
-- Fundamentals of Red Hat Enterprise Linux
-- Git for System Administration
+* **National Energy Control Center (NECC):** SCADA/EMS infrastructure support, network/firewall configuration, system hardening, backup/restore management, and FAT/SAT coordination.
+* **Maharashtra Transmission Asset Management Center (MTAMC):** Linux server & utility infrastructure management, security hardening, monitoring, and client communication.
+* **Office National de l'Électricité et de l'Eau Potable (ONEE):** SCADA/EMS operational support, server configuration, and disaster recovery execution.
+* **Dhaka Electric Supply Company Limited (DESCO):** Linux administration, firewall management, troubleshooting, and FAT/SAT support for critical power grids.
+* **Uttar Gujarat Vij Company Limited (UGVCL):** Utility infrastructure operations, security hardening, and system monitoring.
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: sanket12283@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/sanketpawar12283
-- ☁️ CloudHire: https://jobs.cloudhire.ai/user/df2961e8-103b-4f83-a1d7-c248e0157369
-- 🐙 GitHub: https://github.com/Sanket12283
+### 📜 Certifications
+* 🐧 **Fundamentals of Red Hat Enterprise Linux** *(Jan 2025)*
+* 🔀 **Git for System Administration** *(Jan 2025)*
 
 ---
-
-## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Sanket12283&show_icons=true&theme=default
-
----
-
-## 💡 Repository Ideas
-
-- linux-administration
-- shell-scripting
-- backup-restore
-- network-configuration
-- firewall-hardening
-- rhel-troubleshooting
-- fortisiem-support
-- scada-infrastructure
-
----
-
-## ⚡ Fun Fact
-
-I enjoy solving Linux infrastructure issues, automating repetitive tasks, and building secure enterprise environments.
-```
