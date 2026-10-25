@@ -50,6 +50,7 @@ Senior Linux Administrator and Sr Executive with **6+ years of expertise** speci
 
 ### ⚡ Key Enterprise SCADA / EMS Linux Projects
 
+* **Torrent Power ADMS:** Administered and supported Linux infrastructure for advanced distribution management systems (ADMS), handling network configuration, security hardening, backup/restore, system monitoring, and FAT/SAT activities.
 * **National Energy Control Center (NECC):** Linux system administration, SCADA/EMS infrastructure support, network configuration, security hardening, and backup/restore management.
 * **Maharashtra Transmission Asset Management Center (MTAMC):** Management of enterprise Linux servers and utility infrastructure, system monitoring, security hardening, and FAT/SAT support.
 * **Office National de l'Électricité et de l'Eau Potable (ONEE):** Operational Linux administration, server configuration, firewall management, and disaster recovery execution for critical energy grids.
